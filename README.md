@@ -31,3 +31,6 @@ These transformations include translation (shifting the image along the x and y 
 Affine transformations are widely used in computer vision for tasks such as image registration, object detection, and image stitching. Applications of affine transformations include aligning images, correcting distortions, and transforming images to match a particular perspective.
 
 In summary, affine transformations in computer vision encompass a set of operations that can modify the position, orientation, and scale of an image while preserving parallelism and straight lines. They are crucial for various image processing tasks and form the basis for more complex transformations in computer vision algorithms.  
+
+Resorces:
+https://www.educative.io/answers/what-is-affine-transformation
